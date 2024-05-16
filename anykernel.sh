@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=AOSP Kernel | POCO X3/NFC
+kernel.string=FSociety kernel by Richard
 do.devicecheck=1
 do.modules=0
 do.systemless=1
