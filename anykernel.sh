@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=FSociety kernel by Richard
+kernel.string=Oxygen karnal by Mahiru
 do.devicecheck=1
 do.modules=0
 do.systemless=1
