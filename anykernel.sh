@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Miui Kernel by Mahiru
+kernel.string=Oplus Kernel by Mahirooo
 do.devicecheck=1
 do.modules=0
 do.systemless=1
